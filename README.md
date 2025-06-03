@@ -24,6 +24,7 @@ Technologies Used
 
 
   How to Set Up and Run the Application
+  - Enter into the Hit The View Raw Button
   - Clone the Repoaitory
   - Configure application.properties
   - Run the Application
